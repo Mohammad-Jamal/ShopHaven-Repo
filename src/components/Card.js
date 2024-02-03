@@ -1,5 +1,3 @@
-
-import { AiFillStar } from "react-icons/ai";
 import { BsFillBagHeartFill } from "react-icons/bs";
 
 function Card({ img, title, star, reviews, prevPrice, newPrice }) {
