@@ -1,8 +1,8 @@
 import "./Nav.css";
-import {FiHeart} from "react-icons/fi";
-import {AiOutlineShoppingCart, AiOutlineUserAdd} from "react-icons/ai";
+import { FiHeart } from "react-icons/fi";
+import { AiOutlineShoppingCart, AiOutlineUserAdd } from "react-icons/ai";
 
-function Nav({handleInputChange}) {
+function Nav({ handleInputChange }) {
   return (
     <nav>
       <div className="nav-container">
@@ -14,15 +14,15 @@ function Nav({handleInputChange}) {
         />
       </div>
       <div className="profile-container">
-        <a href="#">
-          <FiHeart  className="nav-icons"/>
-        </a>
-        <a href="#">
-          <AiOutlineShoppingCart  className="nav-icons"/>
-        </a>
-        <a href="#">
-          <AiOutlineUserAdd  className="nav-icons"/>
-        </a>
+        <span>
+          <FiHeart className="nav-icons" />
+        </span>
+        <span>
+          <AiOutlineShoppingCart className="nav-icons" />
+        </span>
+        <span>
+          <AiOutlineUserAdd className="nav-icons" />
+        </span>
       </div>
     </nav>
   );

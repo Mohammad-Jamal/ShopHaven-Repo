@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ShopHaven-Repo/static/css/main.a1284355.css",
-    "main.js": "/ShopHaven-Repo/static/js/main.fbf9e57f.js",
+    "main.js": "/ShopHaven-Repo/static/js/main.c7c30c25.js",
     "index.html": "/ShopHaven-Repo/index.html",
     "main.a1284355.css.map": "/ShopHaven-Repo/static/css/main.a1284355.css.map",
-    "main.fbf9e57f.js.map": "/ShopHaven-Repo/static/js/main.fbf9e57f.js.map"
+    "main.c7c30c25.js.map": "/ShopHaven-Repo/static/js/main.c7c30c25.js.map"
   },
   "entrypoints": [
     "static/css/main.a1284355.css",
-    "static/js/main.fbf9e57f.js"
+    "static/js/main.c7c30c25.js"
   ]
 }
