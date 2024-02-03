@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ShopHaven-Repo/static/css/main.a1284355.css",
+    "main.js": "/ShopHaven-Repo/static/js/main.fbf9e57f.js",
+    "index.html": "/ShopHaven-Repo/index.html",
+    "main.a1284355.css.map": "/ShopHaven-Repo/static/css/main.a1284355.css.map",
+    "main.fbf9e57f.js.map": "/ShopHaven-Repo/static/js/main.fbf9e57f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1284355.css",
+    "static/js/main.fbf9e57f.js"
+  ]
+}
