@@ -1,18 +1,11 @@
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
+.recommended-flex {
+  display: flex;
+  margin-left: 20rem;
+}
+.recommended-title {
+  margin: 20px 0px 20px 20rem;
+  font-size: 20px;
   font-family: sans-serif;
-
-}
-
-a {
-  text-decoration: none;
-  color: rgb(97,97,97);
-}
-
-li {
-  list-style : none;
 }
 .btns {
   padding: 10px 20px;
